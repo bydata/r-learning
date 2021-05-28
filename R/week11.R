@@ -188,3 +188,5 @@ iris %>%
         panel.grid.major.y = element_line(size = 0.1, color = "grey40"))
 
 ggsave("plots/plot_iris_boxplot_dark-2.png", width = 6, height = 4, type = "cairo")
+
+# Änderung
